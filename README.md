@@ -3,13 +3,13 @@
 ## Descripción del Proyecto
 Este proyecto es una extensión para Microsoft Dynamics 365 Business Central que utiliza capacidades de Azure OpenAI para generar tareas de proyectos basadas en descripciones proporcionadas por el usuario. Está diseñado para demostrar cómo integrar inteligencia artificial en aplicaciones empresariales.
 
-## Objetivo del Workshop
+## Objetivo del ejercicio
 El objetivo de este workshop es introducir a los participantes en el desarrollo de extensiones para Dynamics 365 Business Central, utilizando herramientas avanzadas como Azure OpenAI para mejorar la experiencia del usuario y automatizar procesos.
+Identificar las diferentes herramientas y el flujo basico para implementar capacidades mas complejas. Ayudar en la creacion de una capacidad sencilla personilzada en el siguiente ejercicio.
 
-## Contenido del Workshop
-1. **Introducción a Dynamics 365 Business Central**
-   - ¿Qué es Dynamics 365 Business Central?
-   - Beneficios de la personalización mediante extensiones.
+## Contenido del ejercicio
+1. **Introducción a Capacidades Copilot**
+ 
 
 2. **Exploración del Proyecto**
    - Archivos principales:
@@ -21,7 +21,7 @@ El objetivo de este workshop es introducir a los participantes en el desarrollo 
 
 3. **Implementación de Funcionalidades**
    - Cómo definir páginas, acciones y capacidades.
-   - Uso de código AL para interactuar con servicios de Azure.
+   - Uso de código AL para interactuar con servicios de Azure Open AI.
 
 4. **Pruebas y Despliegue**
    - Validación de la funcionalidad.
